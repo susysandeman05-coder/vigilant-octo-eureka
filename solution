@@ -1,0 +1,4 @@
+pkg update
+config -global username
+SusySandeman --user.gmail.com
+git --version
